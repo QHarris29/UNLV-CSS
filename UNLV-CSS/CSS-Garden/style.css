@@ -1,0 +1,64 @@
+a:visited:hover {
+  text-decoration: none;
+  color: greenyellow;
+}
+body {
+  background-color: #417462;
+  color: #e2ed68;
+  font-family: "Times New Roman", Times, serif;
+}
+nav {
+  background-color: rgba(236, 172, 233, 0.503);
+  text-align: center;
+}
+aside {
+  background-color: #46614c;
+  text-align: center;
+}
+nav, aside {
+  color:aqua;
+}
+section {
+  border-style: solid;
+}
+header{
+  box-shadow: 5px 10px #888888;
+  text-align: center;
+}
+h1 {
+  font-size: 4em;
+  text-shadow: 2px 2px #ff0000;
+}
+p {
+  font-size: 1.5em;
+  text-align:justify;
+}
+span {
+  font-weight: 700;
+}
+main{
+  background-color: #5f4661;
+  width: 90%;
+  margin:auto
+}
+li{
+  list-style: none;
+}
+nav h3{
+color: rgb(104, 53, 53);
+}
+aside h3{
+color: peru;
+}
+.intro{
+text-shadow: 2px 2px#ff0000;
+}
+.features{
+  text-shadow:2px 2px orange;
+}
+.summary{
+  text-shadow:2px 2px rgb(176, 204, 100);
+}
+footer {
+  text-align: center;
+}
